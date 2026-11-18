@@ -1,4 +1,4 @@
-import { getRandomInteger, getRandomArrayElement, createIdGenerator } from './util.js';
+import { getRandomInteger, getRandomArrayElement, createIdGenerator } from './utils.js';
 
 const DESCRIPTIONS = [
   'Моя первая фотография', 'Закат на море', 'Горы в тумане', 'Прогулка по осеннему парку',
